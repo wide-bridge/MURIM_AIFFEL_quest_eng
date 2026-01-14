@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 차경환
-- 리뷰어 : 박무림
+- 코더 : 박무림
+- 리뷰어 : 차경환
 
 
 # PRT(Peer Review Template)
@@ -33,6 +33,7 @@
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+<img width="652" height="546" alt="image" src="https://github.com/user-attachments/assets/9a66edd9-38ef-4daf-85d7-a7ee1e2b5058" />
 
 
 # 회고(참고 링크 및 코드 개선)
